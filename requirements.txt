@@ -1,2 +1,5 @@
 dvc[s3]
 awscli
+numpy
+pandas
+scikit-learn
